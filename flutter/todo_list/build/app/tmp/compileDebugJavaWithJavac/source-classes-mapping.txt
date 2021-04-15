@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/github/antoniocsilva/todo_list/BuildConfig.java
+ com.github.antoniocsilva.todo_list.BuildConfig
